@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(322,23): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(324,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(507,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(508,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(509,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(511,16): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(520,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(521,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(522,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(524,16): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(548,12): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(549,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(550,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(552,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(570,15): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(579,15): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(728,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(730,40): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(731,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\zezo\source\repos\s.fml\s.fml\Source.cpp(795,42): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  s.fml.vcxproj -> C:\Users\zezo\source\repos\s.fml\Debug\s.fml.exe
